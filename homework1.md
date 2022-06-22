@@ -14,9 +14,11 @@ amacıyla kullanılır.
 Aynı anda hem arayüz hemde kalıtım amacıyla alt sınıf oluşturmak istiyorsak, extend ve implements 
 anahtar sözcüklerini kullanırken, extends anahtar sözcüğünü implements'ten önce kullanmamız lazım
 
-`public class Human extends Monkey implements Interface1, Interface2{
+``` 
+public class Human extends Monkey implements Interface1, Interface2{ 
     //...
-}`
+}
+```
 <p>
 
 <p>
